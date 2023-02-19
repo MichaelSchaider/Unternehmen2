@@ -35,8 +35,6 @@ namespace program
             Firma firma1 = new Firma("Apple", "Horn", arbeiter);
             Management[] arbeiter1Firma = firma.GetArbeiter();
             Console.WriteLine(firma.DisplayWorker());
-
-            Console.WriteLine("test");
         }
     }
 }
