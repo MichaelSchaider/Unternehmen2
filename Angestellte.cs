@@ -15,13 +15,13 @@ namespace Unternehmen_SEW
         }
         public override void AssignAufgabe()
         {
-            Console.WriteLine("Dér Angestellte beginnt zu Arbeiten");
+            Console.WriteLine("Der Angestellte beginnt zu Arbeiten");
         }
-        public void programmieren()
+        public void Programmieren()
         {
             Console.WriteLine("Programmieren");
         }
-        public void LohnVerechnen()
+        public void Lohnverechnen()
         {
             Console.WriteLine("Lohn wird verrechnet");
         }

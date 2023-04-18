@@ -1,23 +1,32 @@
 ﻿<Properties StartupConfiguration="{14F99E43-F9B3-4490-96BC-729EA8307829}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Firma.cs">
     <Files>
-      <File FileName="Program.cs" Line="37" Column="54" />
+      <File FileName="Program.cs" Line="44" Column="10" />
+      <File FileName="Management.cs" Line="1" Column="1" />
+      <File FileName="Firma.cs" Line="1" Column="1" />
+      <File FileName="Putzkraft.cs" Line="1" Column="1" />
+      <File FileName="Praktikanten.cs" Line="1" Column="1" />
+      <File FileName="Ceo.cs" Line="1" Column="1" />
+      <File FileName="Arbeiter.cs" Line="1" Column="1" />
+      <File FileName="Angestellte.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Unternehmen2" expanded="True">
-            <Node name="Unternehmen2" expanded="True" />
+            <Node name="Unternehmen2" expanded="True">
+              <Node name="Angestellte.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Unternehmen2 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

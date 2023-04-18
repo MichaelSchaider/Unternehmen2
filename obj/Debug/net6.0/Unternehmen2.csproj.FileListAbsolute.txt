@@ -1,15 +1,45 @@
-C:\Users\michi\Downloads\Unternehmen2\bin\Debug\net6.0\Unternehmen2.exe
-C:\Users\michi\Downloads\Unternehmen2\bin\Debug\net6.0\Unternehmen2.deps.json
-C:\Users\michi\Downloads\Unternehmen2\bin\Debug\net6.0\Unternehmen2.runtimeconfig.json
-C:\Users\michi\Downloads\Unternehmen2\bin\Debug\net6.0\Unternehmen2.dll
-C:\Users\michi\Downloads\Unternehmen2\bin\Debug\net6.0\Unternehmen2.pdb
-C:\Users\michi\Downloads\Unternehmen2\obj\Debug\net6.0\Unternehmen2.csproj.AssemblyReference.cache
-C:\Users\michi\Downloads\Unternehmen2\obj\Debug\net6.0\Unternehmen2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\michi\Downloads\Unternehmen2\obj\Debug\net6.0\Unternehmen2.AssemblyInfoInputs.cache
-C:\Users\michi\Downloads\Unternehmen2\obj\Debug\net6.0\Unternehmen2.AssemblyInfo.cs
-C:\Users\michi\Downloads\Unternehmen2\obj\Debug\net6.0\Unternehmen2.csproj.CoreCompileInputs.cache
-C:\Users\michi\Downloads\Unternehmen2\obj\Debug\net6.0\Unternehmen2.dll
-C:\Users\michi\Downloads\Unternehmen2\obj\Debug\net6.0\refint\Unternehmen2.dll
-C:\Users\michi\Downloads\Unternehmen2\obj\Debug\net6.0\Unternehmen2.pdb
-C:\Users\michi\Downloads\Unternehmen2\obj\Debug\net6.0\Unternehmen2.genruntimeconfig.cache
-C:\Users\michi\Downloads\Unternehmen2\obj\Debug\net6.0\ref\Unternehmen2.dll
+C:/Users/michi/Downloads/Unternehmen2/bin/Debug/net6.0/Unternehmen2.exe
+C:/Users/michi/Downloads/Unternehmen2/bin/Debug/net6.0/Unternehmen2.deps.json
+C:/Users/michi/Downloads/Unternehmen2/bin/Debug/net6.0/Unternehmen2.runtimeconfig.json
+C:/Users/michi/Downloads/Unternehmen2/bin/Debug/net6.0/Unternehmen2.dll
+C:/Users/michi/Downloads/Unternehmen2/bin/Debug/net6.0/Unternehmen2.pdb
+C:/Users/michi/Downloads/Unternehmen2/obj/Debug/net6.0/Unternehmen2.csproj.AssemblyReference.cache
+C:/Users/michi/Downloads/Unternehmen2/obj/Debug/net6.0/Unternehmen2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/michi/Downloads/Unternehmen2/obj/Debug/net6.0/Unternehmen2.AssemblyInfoInputs.cache
+C:/Users/michi/Downloads/Unternehmen2/obj/Debug/net6.0/Unternehmen2.AssemblyInfo.cs
+C:/Users/michi/Downloads/Unternehmen2/obj/Debug/net6.0/Unternehmen2.csproj.CoreCompileInputs.cache
+C:/Users/michi/Downloads/Unternehmen2/obj/Debug/net6.0/Unternehmen2.dll
+C:/Users/michi/Downloads/Unternehmen2/obj/Debug/net6.0/refint/Unternehmen2.dll
+C:/Users/michi/Downloads/Unternehmen2/obj/Debug/net6.0/Unternehmen2.pdb
+C:/Users/michi/Downloads/Unternehmen2/obj/Debug/net6.0/Unternehmen2.genruntimeconfig.cache
+C:/Users/michi/Downloads/Unternehmen2/obj/Debug/net6.0/ref/Unternehmen2.dll
+/Users/michaelschaider/Library/CloudStorage/OneDrive-HTLKrems/2022-23/SEW/Unternehmen/bin/Debug/net6.0/Unternehmen2
+/Users/michaelschaider/Library/CloudStorage/OneDrive-HTLKrems/2022-23/SEW/Unternehmen/bin/Debug/net6.0/Unternehmen2.deps.json
+/Users/michaelschaider/Library/CloudStorage/OneDrive-HTLKrems/2022-23/SEW/Unternehmen/bin/Debug/net6.0/Unternehmen2.runtimeconfig.json
+/Users/michaelschaider/Library/CloudStorage/OneDrive-HTLKrems/2022-23/SEW/Unternehmen/bin/Debug/net6.0/Unternehmen2.dll
+/Users/michaelschaider/Library/CloudStorage/OneDrive-HTLKrems/2022-23/SEW/Unternehmen/bin/Debug/net6.0/Unternehmen2.pdb
+/Users/michaelschaider/Library/CloudStorage/OneDrive-HTLKrems/2022-23/SEW/Unternehmen/obj/Debug/net6.0/Unternehmen2.csproj.AssemblyReference.cache
+/Users/michaelschaider/Library/CloudStorage/OneDrive-HTLKrems/2022-23/SEW/Unternehmen/obj/Debug/net6.0/Unternehmen2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelschaider/Library/CloudStorage/OneDrive-HTLKrems/2022-23/SEW/Unternehmen/obj/Debug/net6.0/Unternehmen2.AssemblyInfoInputs.cache
+/Users/michaelschaider/Library/CloudStorage/OneDrive-HTLKrems/2022-23/SEW/Unternehmen/obj/Debug/net6.0/Unternehmen2.AssemblyInfo.cs
+/Users/michaelschaider/Library/CloudStorage/OneDrive-HTLKrems/2022-23/SEW/Unternehmen/obj/Debug/net6.0/Unternehmen2.csproj.CoreCompileInputs.cache
+/Users/michaelschaider/Library/CloudStorage/OneDrive-HTLKrems/2022-23/SEW/Unternehmen/obj/Debug/net6.0/Unternehmen2.dll
+/Users/michaelschaider/Library/CloudStorage/OneDrive-HTLKrems/2022-23/SEW/Unternehmen/obj/Debug/net6.0/refint/Unternehmen2.dll
+/Users/michaelschaider/Library/CloudStorage/OneDrive-HTLKrems/2022-23/SEW/Unternehmen/obj/Debug/net6.0/Unternehmen2.pdb
+/Users/michaelschaider/Library/CloudStorage/OneDrive-HTLKrems/2022-23/SEW/Unternehmen/obj/Debug/net6.0/Unternehmen2.genruntimeconfig.cache
+/Users/michaelschaider/Library/CloudStorage/OneDrive-HTLKrems/2022-23/SEW/Unternehmen/obj/Debug/net6.0/ref/Unternehmen2.dll
+C:\Users\michi\OneDrive - HTL Krems\2022-23\SEW\Unternehmen\obj\Debug\net6.0\Unternehmen2.csproj.AssemblyReference.cache
+C:\Users\michi\OneDrive - HTL Krems\2022-23\SEW\Unternehmen\obj\Debug\net6.0\Unternehmen2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michi\OneDrive - HTL Krems\2022-23\SEW\Unternehmen\obj\Debug\net6.0\Unternehmen2.AssemblyInfoInputs.cache
+C:\Users\michi\OneDrive - HTL Krems\2022-23\SEW\Unternehmen\obj\Debug\net6.0\Unternehmen2.AssemblyInfo.cs
+C:\Users\michi\OneDrive - HTL Krems\2022-23\SEW\Unternehmen\obj\Debug\net6.0\Unternehmen2.csproj.CoreCompileInputs.cache
+C:\Users\michi\OneDrive - HTL Krems\2022-23\SEW\Unternehmen\obj\Debug\net6.0\Unternehmen2.dll
+C:\Users\michi\OneDrive - HTL Krems\2022-23\SEW\Unternehmen\obj\Debug\net6.0\refint\Unternehmen2.dll
+C:\Users\michi\OneDrive - HTL Krems\2022-23\SEW\Unternehmen\obj\Debug\net6.0\Unternehmen2.pdb
+C:\Users\michi\OneDrive - HTL Krems\2022-23\SEW\Unternehmen\bin\Debug\net6.0\Unternehmen2.exe
+C:\Users\michi\OneDrive - HTL Krems\2022-23\SEW\Unternehmen\bin\Debug\net6.0\Unternehmen2.deps.json
+C:\Users\michi\OneDrive - HTL Krems\2022-23\SEW\Unternehmen\bin\Debug\net6.0\Unternehmen2.runtimeconfig.json
+C:\Users\michi\OneDrive - HTL Krems\2022-23\SEW\Unternehmen\bin\Debug\net6.0\Unternehmen2.dll
+C:\Users\michi\OneDrive - HTL Krems\2022-23\SEW\Unternehmen\bin\Debug\net6.0\Unternehmen2.pdb
+C:\Users\michi\OneDrive - HTL Krems\2022-23\SEW\Unternehmen\obj\Debug\net6.0\Unternehmen2.genruntimeconfig.cache
+C:\Users\michi\OneDrive - HTL Krems\2022-23\SEW\Unternehmen\obj\Debug\net6.0\ref\Unternehmen2.dll
